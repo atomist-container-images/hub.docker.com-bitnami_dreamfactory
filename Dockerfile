@@ -1,12 +1,21 @@
-# Tags: latest, 4.10.2-debian-10-r46, 4.10.2, 4-debian-10, 4
+# Tags: latest, 4.10.2-debian-10-r49, 4.10.2, 4-debian-10, 4
 FROM bitnami/dreamfactory:latest
-FROM bitnami/dreamfactory:4.10.2-debian-10-r46
+FROM bitnami/dreamfactory:4.10.2-debian-10-r49
 FROM bitnami/dreamfactory:4.10.2
 FROM bitnami/dreamfactory:4-debian-10
 FROM bitnami/dreamfactory:4
 
 # Tags: _
 FROM bitnami/dreamfactory:_
+
+# Tags: 4.10.2-debian-10-r48
+FROM bitnami/dreamfactory:4.10.2-debian-10-r48
+
+# Tags: 4.10.2-debian-10-r47
+FROM bitnami/dreamfactory:4.10.2-debian-10-r47
+
+# Tags: 4.10.2-debian-10-r46
+FROM bitnami/dreamfactory:4.10.2-debian-10-r46
 
 # Tags: 4.10.2-debian-10-r45
 FROM bitnami/dreamfactory:4.10.2-debian-10-r45
@@ -82,15 +91,3 @@ FROM bitnami/dreamfactory:4.10.2-debian-10-r22
 
 # Tags: 4.10.2-debian-10-r21
 FROM bitnami/dreamfactory:4.10.2-debian-10-r21
-
-# Tags: 4.10.2-debian-10-r20
-FROM bitnami/dreamfactory:4.10.2-debian-10-r20
-
-# Tags: 4.10.2-debian-10-r19
-FROM bitnami/dreamfactory:4.10.2-debian-10-r19
-
-# Tags: 4.10.2-debian-10-r18
-FROM bitnami/dreamfactory:4.10.2-debian-10-r18
-
-# Tags: 4.10.2-debian-10-r17
-FROM bitnami/dreamfactory:4.10.2-debian-10-r17
