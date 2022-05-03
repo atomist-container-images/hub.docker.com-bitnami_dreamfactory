@@ -92,6 +92,3 @@ FROM bitnami/dreamfactory:4.10.2-debian-10-r50
 
 # Tags: 4.10.2-debian-10-r49
 FROM bitnami/dreamfactory:4.10.2-debian-10-r49
-
-# Tags: 4.10.2-debian-10-r48
-FROM bitnami/dreamfactory:4.10.2-debian-10-r48
