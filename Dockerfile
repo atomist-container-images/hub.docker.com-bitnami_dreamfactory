@@ -1,12 +1,42 @@
-# Tags: latest, 4.11.0-debian-10-r20, 4.11.0, 4-debian-10, 4
+# Tags: latest, 4.11.0-debian-10-r30, 4.11.0, 4-debian-10, 4
 FROM bitnami/dreamfactory:latest
-FROM bitnami/dreamfactory:4.11.0-debian-10-r20
+FROM bitnami/dreamfactory:4.11.0-debian-10-r30
 FROM bitnami/dreamfactory:4.11.0
 FROM bitnami/dreamfactory:4-debian-10
 FROM bitnami/dreamfactory:4
 
 # Tags: _
 FROM bitnami/dreamfactory:_
+
+# Tags: 4.11.0-debian-10-r29
+FROM bitnami/dreamfactory:4.11.0-debian-10-r29
+
+# Tags: 4.11.0-debian-10-r28
+FROM bitnami/dreamfactory:4.11.0-debian-10-r28
+
+# Tags: 4.11.0-debian-10-r27
+FROM bitnami/dreamfactory:4.11.0-debian-10-r27
+
+# Tags: 4.11.0-debian-10-r26
+FROM bitnami/dreamfactory:4.11.0-debian-10-r26
+
+# Tags: 4.11.0-debian-10-r25
+FROM bitnami/dreamfactory:4.11.0-debian-10-r25
+
+# Tags: 4.11.0-debian-10-r24
+FROM bitnami/dreamfactory:4.11.0-debian-10-r24
+
+# Tags: 4.11.0-debian-10-r23
+FROM bitnami/dreamfactory:4.11.0-debian-10-r23
+
+# Tags: 4.11.0-debian-10-r22
+FROM bitnami/dreamfactory:4.11.0-debian-10-r22
+
+# Tags: 4.11.0-debian-10-r21
+FROM bitnami/dreamfactory:4.11.0-debian-10-r21
+
+# Tags: 4.11.0-debian-10-r20
+FROM bitnami/dreamfactory:4.11.0-debian-10-r20
 
 # Tags: 4.11.0-debian-10-r19
 FROM bitnami/dreamfactory:4.11.0-debian-10-r19
@@ -61,34 +91,3 @@ FROM bitnami/dreamfactory:4.11.0-debian-10-r3
 
 # Tags: 4.11.0-debian-10-r2
 FROM bitnami/dreamfactory:4.11.0-debian-10-r2
-
-# Tags: 4.11.0-debian-10-r1
-FROM bitnami/dreamfactory:4.11.0-debian-10-r1
-
-# Tags: 4.11.0-debian-10-r0
-FROM bitnami/dreamfactory:4.11.0-debian-10-r0
-
-# Tags: 4.10.2-debian-10-r56, 4.10.2
-FROM bitnami/dreamfactory:4.10.2-debian-10-r56
-FROM bitnami/dreamfactory:4.10.2
-
-# Tags: 4.10.2-debian-10-r55
-FROM bitnami/dreamfactory:4.10.2-debian-10-r55
-
-# Tags: 4.10.2-debian-10-r54
-FROM bitnami/dreamfactory:4.10.2-debian-10-r54
-
-# Tags: 4.10.2-debian-10-r53
-FROM bitnami/dreamfactory:4.10.2-debian-10-r53
-
-# Tags: 4.10.2-debian-10-r52
-FROM bitnami/dreamfactory:4.10.2-debian-10-r52
-
-# Tags: 4.10.2-debian-10-r51
-FROM bitnami/dreamfactory:4.10.2-debian-10-r51
-
-# Tags: 4.10.2-debian-10-r50
-FROM bitnami/dreamfactory:4.10.2-debian-10-r50
-
-# Tags: 4.10.2-debian-10-r49
-FROM bitnami/dreamfactory:4.10.2-debian-10-r49
